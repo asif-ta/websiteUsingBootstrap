@@ -1,0 +1,17 @@
+body{
+    /* background: rgba(0, 0, 255, 0.1); */
+    background: #e9e8e8;
+}
+.navbar-collapse {
+    flex-grow: 0;
+}
+.navbar-toggler-icon {
+    filter: invert(1);
+}
+.readMeButton{
+    right: 5%;
+    bottom: 5%;
+}
+footer a{
+    text-decoration: none;
+}
